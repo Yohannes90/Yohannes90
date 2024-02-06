@@ -26,6 +26,6 @@ Hello, 👋 I am Yohannes Mekonnen from Ethiopia. ✨ I have a huge interest in 
 ![](https://github-profile-trophy.vercel.app/?username=Yohannes90&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
