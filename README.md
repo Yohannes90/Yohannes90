@@ -7,7 +7,7 @@
 # 💫 About Me:
 Hello, 👋 I am Yohannes Mekonnen from Ethiopia. ✨ I have a huge interest in software engineering and web development 🌱 I am very passionate and dedicated about programming.
 🔭 I’m currently an ALX-SE Student
-🔭 I’m currently working on Social blog post web application
+🔭 I’m currently working on an E-commerce web application
 🌱 I’m currently learning React, Django
 👯 I’m looking to collaborate on projects<br>
 
