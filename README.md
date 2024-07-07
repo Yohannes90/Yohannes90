@@ -5,11 +5,12 @@
 <br>
 
 # 💫 About Me:
-Hello, 👋 I am Yohannes Mekonnen from Ethiopia. ✨ I have a huge interest in software engineering and web development 🌱 I am very passionate and dedicated about programming.
-🔭 I’m currently an ALX-SE Student
-🔭 I’m currently working on an E-commerce web application
-🌱 I’m currently learning React, Django
-👯 I’m looking to collaborate on projects<br>
+Hello, 👋  I'm Yohannes Mekonnen, an aspiring software engineer passionate about Building Scalable Web Applications. ✨ Leveraging my Back-End & Front-End Expertise to create seamless user experiences with robust back-ends. 🌱 Quick learner with a willingness to adapt to new technologies and frameworks.
+👯 I’m currently an ALX-SE Student
+👯 I’m currently working on an E-commerce web application
+🌱 I’m currently learning NextJs, Django
+🔭 Looking to work on challenging projects (Open to new opportunities!) 
+🔭 Looking to contribute to the development of innovative solutions<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yohannes90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yohannes90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yohannes90) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yohannes90) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mekonnenyohannes90) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Yohannes-Mekonnen) 
