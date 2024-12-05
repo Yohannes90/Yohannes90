@@ -1,23 +1,29 @@
-<div align="center"><h1>Hey there 👋 Welcome!!!</h1></ div>
-<div align="center">
+
+<div align="center"><h2>Hey there 👋 Welcome!!!</h2></ div>
+
+<!-- <div align="center">
 <img src="https://github.com/Yohannes90/Yohannes90/assets/116464283/d8cdc4e7-ffb1-46a0-ae40-f698f7e8e9ae" height=auto>
-</ div>
+</ div> -->
 <br>
 
-# 💫 About Me:
-Hello, 👋 I’m Yohannes Mekonnen, a dedicated software engineer with 2+ years of experience in Programming.✨ I'm passionate about crafting innovative solutions that leverage the power of technology to improve people's lives. 🌱 **Quick learner** | **Problem Solver** | **Team Player** <br>
+### 💫 About Me:
+Hello, 👋 I’m Yohannes Mekonnen, a dedicated software engineer with 2+ years of experience in Programming.✨ I'm passionate about crafting innovative solutions that leverage the power of technology to improve people's lives. 🌱 **Quick learner** | **Problem Solver** | **Team Player** <br> <br>
 👯 I’m an **ALX-Software Engineering Alumni** and a **Final year Msc. in Computer Science Student**.<br>
 👀 I am currently very interested **Backend Development, Machine Learning, and AI**.<br>
+🔭 I'm looking to contribute to the development of innovative solutions.<br>
 
-**Open to Collaboration**<br>
-💞️ Feel free to submit PRs or reach out to discuss potential projects.<br>
-🔭 Looking to contribute to the development of innovative solutions.<br>
-🌑 **Night Owl: I often code late at night. Please excuse any delayed responses.**<br>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yohannes90) **|** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yohannes90) **|** [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yohannes90) **|** [![LeetCode user Yohannes90](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYohannes90&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yohannes90/) **|** [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Yohannes-Mekonnen) 
+💞️ **Open to Collab: Feel free to submit PRs or reach out to discuss potential projects**.<br>
+🌑 **Night Owl: I often code late at night. Please excuse any delayed responses**.<br>
 
-# 💻 Tech Stack:
+---
+
+### 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yohannes90) **|** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yohannes90) **|** [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yohannes90) **|** [![LeetCode user Yohannes90](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYohannes90&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yohannes90/)
+
+---
+
+### 💻 Tech Stack:
 
 Name | Badges
 ---- | ----
@@ -28,15 +34,15 @@ Name | Badges
 **ML/DL**  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 **Hosting, DevOps & tools**   | ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yohannes90&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yohannes90&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohannes90&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yohannes90&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yohannes90&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=Yohannes90&theme=darcula&hide_border=true)<br/>
 
 ---
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yohannes90&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=Yohannes90&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
