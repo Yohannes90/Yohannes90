@@ -8,7 +8,7 @@
 -->
 
 ### 💫 About Me:
-Hello, 👋 I’m Yohannes Mekonnen, a dedicated software engineer with 2+ years of experience in Programming.✨ I'm passionate about crafting innovative solutions that leverage the power of technology to improve people's lives. 🌱 **Quick learner** | **Problem Solver** | **Team Player** <br> <br>
+Hello, 👋 I’m Yohannes Mekonnen, a dedicated software engineer with 3+ years of experience in Programming.✨ I'm passionate about crafting innovative solutions that leverage the power of technology to improve people's lives. 🌱 **Quick learner** | **Problem Solver** | **Team Player** <br> <br>
 👯 I’m an **ALX-Software Engineering Alumni** and a **Final year Msc. in Computer Science Student**.<br>
 👀 My current focus lies in **Backend Development, Machine Learning, and AI**.<br>
 🔭 I'm looking to contribute to the development of innovative solutions.<br>
