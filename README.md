@@ -34,10 +34,10 @@ Name | Badges
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohannes90&theme=vue" height="180em" width="300em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" width="220em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" width="220em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohannes90&theme=vue&utcOffset=3" height="180em" width="220em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohannes90&theme=vue" height="180em" width="280em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" width="200em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" width="200em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohannes90&theme=vue&utcOffset=3" height="180em" width="200em" />
 
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohannes90&theme=vue" height="180em" width="550em" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes90&theme=vue&hide_border=false" height="180em" width="400em" />
