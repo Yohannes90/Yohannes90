@@ -41,9 +41,8 @@ Name | Badges
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohannes90&theme=vue&utcOffset=3" height="180em" width="200em" />
 
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohannes90&theme=vue" height="180em" width="450em" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yohannes90&theme=vue&hide_border=true" height="180em" width=370em" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes90&theme=vue&hide_border=true" height="180em" width="370em" alt="GitHub Streak" />
 </div>
-
 
 ### 🏆 GitHub Trophies
 
