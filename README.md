@@ -11,7 +11,7 @@
 Hello, 👋 I’m <strong>Yohannes Mekonnen</strong>, a dedicated software engineer with 3+ years of experience in Programming.✨ I'm passionate about crafting innovative solutions that leverage the power of technology to improve people's lives. <br> 
 🌱 **Quick learner** | **Problem Solver** | **Team Player** <br> <br> 
 👯 I’m an **ALX-Software Engineering Alumni** and a **Final year Msc. in Computer Science Student**.<br>
-👀 My current focus lies in **Backend Development, Machine Learning, and AI**.<br>
+👀 My current focus lies in **Backend Development, Machine Learning, Computer Vision and AI**.<br>
 🔭 I'm looking to contribute to the development of innovative solutions.<br>
 
 💞️ **Open to Collab: Feel free to submit PRs or reach out to discuss potential projects**.<br>
