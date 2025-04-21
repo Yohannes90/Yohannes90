@@ -34,15 +34,16 @@ Name | Badges
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohannes90&theme=vue" height="180em" width="220em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" width="200em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" height="180em" width="200em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohannes90&theme=vue&utcOffset=3" height="180em" width="200em" />
-
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohannes90&theme=vue" height="180em" width="450em" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes90&theme=vue&hide_border=true" height="180em" width="370em" alt="GitHub Streak" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohannes90&theme=vue" style="max-width: 100%; height: auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" style="max-width: 100%; height: auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" style="max-width: 100%; height: auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohannes90&theme=vue&utcOffset=3" style="max-width: 100%; height: auto;" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohannes90&theme=vue" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes90&theme=vue&hide_border=true" style="max-width: 100%; height: auto;" />
 </div>
+
 
 ### 🏆 GitHub Trophies
 
