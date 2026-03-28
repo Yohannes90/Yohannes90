@@ -38,7 +38,7 @@ Name | Badges
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohannes90&theme=vue" style="max-width: 100%; height: auto;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohannes90&theme=vue&utcOffset=3" style="max-width: 100%; height: auto;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" style="max-width: 100%; height: auto;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" style="max-width: 100%; height: auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohannes90&theme=vue&exclude=html,CSS,MeTTa,Jupyter%20Notebook" style="max-width: 100%; height: auto;" />
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohannes90&theme=vue" style="max-width: 100%; height: auto;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes90&theme=vue&hide_border=true" style="max-width: 100%; height: auto;" />
