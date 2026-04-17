@@ -1,65 +1,58 @@
-<!-- 
-<div align="center"></ div>
-<div align="center"><h2>Hey there 👋 Welcome!!!</h2></ div>
 <div align="center">
-  <img src="https://github.com/Yohannes90/Yohannes90/assets/116464283/d8cdc4e7-ffb1-46a0-ae40-f698f7e8e9ae" height=auto>
-</div> 
-<br>
--->
+  <h1>
+    <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?crop=entropy&h=160&fit=crop&w=1200&crop=left" width="100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=172B4D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yohannes!+%F0%9F%A5%B7;Software+Engineer+%7C+Full-Stack/Backend+Developer" alt="Typing SVG" />
+  </h1>
+</div>
 
-### 💫 About Me:
-Hello, 👋 I’m <strong>Yohannes Mekonnen</strong>, a dedicated software engineer with 3+ years of experience in Programming.✨ I'm passionate about crafting innovative solutions that leverage the power of technology to improve people's lives. <br> 
-🌱 **Quick learner** | **Problem Solver** | **Team Player** <br> <br> 
-👯 I’m an **ALX-Software Engineering Alumni** and a **Final year Msc. in Computer Science Student**.<br>
-👀 My current focus lies in **Backend Development, Machine Learning, Computer Vision and AI-Integrated Projects**.<br>
-🔭 I'm looking to contribute to the development of innovative solutions.<br>
+<!-- <h2>About me</h2> -->
+<h3>Software Engineer | Full-Stack/Backend Developer</h3>
 
-💞️ **Open to Collab: Feel free to submit PRs or reach out to discuss potential projects**.<br>
-🌑 **Night Owl: I often code late at night. Please excuse any delayed responses**.
+I am a Software Engineer dedicated to building efficient, scalable, and intelligent applications. With a background rooted in the ALX Software Engineering program and M.sc. Computer Science studies, I combine a deep understanding of data structures and algorithms with modern frameworks to design backend architectures and AI-integrated systems that solve real-world problems. <br> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Yohannes90)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Yohannes90)  [![LeetCode user Yohannes90](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYohannes90&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yohannes90/)
 
+### ⚡Areas of Expertise
+
+#### **Software Architecture & Development:**
+* **Backend & API Design:** Building secure, scalable server-side logic and data models using Python (FastAPI, Flask, Django), Node.js, Java, and PHP.
+* **Full-Stack Ecosystems:** Developing responsive, high-performance web applications with TypeScript, Next.js, React, and the MERN stack.
+* **DevOps & CI/CD:** Streamlining deployments and ensuring code quality through GitHub Actions and automated testing pipelines.
+
+#### **Artificial Intelligence & Machine Learning:**
+* **Data Engineering & Pipelines:** Building efficient workflows for data cleaning, feature engineering, and high-accuracy record linkage.
+* **ML Foundations:** Implementing supervised and unsupervised models including Regression, Decision Trees, and Clustering.
+
+#### **Technical Foundations:**
+* **Data Structures & Algorithms:** Deeply committed to Clean Code principles and algorithmic efficiency to optimize system performance and maintainability.
 
 ### 💻 Tech Stack:
 
 Name | Badges
 ---- | ----
-**Languages**  |  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-**Frameworks** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-**Databases**  | ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-**ML/DL**  | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-**Hosting, DevOps & tools**   | ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat-square&logo=linode&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-
+**Languages**  |  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
+**Backend Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+**Frontend Development** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+**ORM** | SQLAlchemy, Mongoose, Prisma 
+**Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+**Testing** | ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=plastic&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+**Hosting, DevOps & tools**   | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat-square&logo=linode&logoColor=white)
 
 ### 📊 GitHub Stats:
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohannes90&theme=vue" style="max-width: 100%; height: auto;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohannes90&theme=vue&utcOffset=3" style="max-width: 100%; height: auto;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" style="max-width: 100%; height: auto;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohannes90&theme=vue&exclude=html,CSS,Jupyter%20Notebook" style="max-width: 100%; height: auto;" />
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohannes90&theme=vue" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes90&theme=vue&hide_border=true" style="max-width: 100%; height: auto;" />
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Yohannes90&theme=moltack&hide_border=true&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohannes90&theme=moltack&exclude=html,CSS,Jupyter%20Notebook,Java,C" style="max-width: 100%; height: auto;" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes90&theme=vue&hide_border=true" style="max-width: 100%; height: auto;" /> -->
 </div>
 
-
-### 🏆 GitHub Trophies
-
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=Yohannes90&theme=vue&no-bg=true&no-frame=true&row=1&column=8"/>
-</div>
-<br>
+  <p>Thanks for visiting! 🚀 <strong>Feel free to reach out to discuss potential projects!</strong> 🌑</p>
 
-<div align=center>
-  
   ![](https://komarev.com/ghpvc/?username=Yohannes90)
-  <p>Thanks for visiting! 🚀 Let's build something amazing together! 😃</p>
 </div>
-
 
 <!-- Proudly created with -->
 <!-- ( https://gprm.itsvg.in ) -->
 <!-- ( https://github.com/vn7n24fzkq/github-profile-summary-cards ) -->
 <!-- ( https://github.com/antonkomarev/github-profile-views-counter ) -->
-
